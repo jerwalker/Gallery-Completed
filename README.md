@@ -1,3 +1,5 @@
+2015-11-06 - Completed
+
 # Gallery of Squares
 
 Create a 4 column gallery that displays each of the images cropped inside of an exact square
